@@ -1,0 +1,26 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/tween/tween.js",
+		"libs/modules/assetsmanager/assetsmanager.js",
+		"libs/modules/socket/socket.js",
+		"libs/modules/promise/promise.js"
+	],
+	"game": [
+		"bin-debug/Platform.js",
+		"bin-debug/BtnSprite.js",
+		"bin-debug/GameStage.js",
+		"bin-debug/Global.js",
+		"bin-debug/LoadingUI.js",
+		"bin-debug/Main.js",
+		"bin-debug/ChatSprite.js",
+		"bin-debug/Play_go.js",
+		"bin-debug/Room_icon.js",
+		"bin-debug/SocketBase.js",
+		"bin-debug/StagePop.js",
+		"bin-debug/UserPanel.js",
+		"bin-debug/WaitingSprite.js"
+	]
+}

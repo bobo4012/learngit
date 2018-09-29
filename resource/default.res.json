@@ -1,0 +1,90 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,description_json,bai_png,chat_input_jpg,g_btn_png,hei_png,homepage_png,luozi_mp3,msg_mp3,nullheadimg_png,qipan_jpg,r_btn_png,signin_x_btn_png,stagePop_bg_png,waiting_png_png,y_btn_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "bai_png",
+			"type": "image",
+			"url": "assets/bai.png"
+		},
+		{
+			"name": "chat_input_jpg",
+			"type": "image",
+			"url": "assets/chat_input.jpg"
+		},
+		{
+			"name": "g_btn_png",
+			"type": "image",
+			"url": "assets/g_btn.png"
+		},
+		{
+			"name": "hei_png",
+			"type": "image",
+			"url": "assets/hei.png"
+		},
+		{
+			"name": "homepage_png",
+			"type": "image",
+			"url": "assets/homepage.png"
+		},
+		{
+			"name": "luozi_mp3",
+			"type": "sound",
+			"url": "assets/luozi.mp3"
+		},
+		{
+			"name": "msg_mp3",
+			"type": "sound",
+			"url": "assets/msg.mp3"
+		},
+		{
+			"name": "nullheadimg_png",
+			"type": "image",
+			"url": "assets/nullheadimg.png"
+		},
+		{
+			"name": "qipan_jpg",
+			"type": "image",
+			"url": "assets/qipan.jpg"
+		},
+		{
+			"name": "r_btn_png",
+			"type": "image",
+			"url": "assets/r_btn.png"
+		},
+		{
+			"name": "signin_x_btn_png",
+			"type": "image",
+			"url": "assets/signin_x_btn.png"
+		},
+		{
+			"name": "stagePop_bg_png",
+			"type": "image",
+			"url": "assets/stagePop_bg.png"
+		},
+		{
+			"name": "waiting_png_png",
+			"type": "image",
+			"url": "assets/waiting_png.png"
+		},
+		{
+			"name": "y_btn_png",
+			"type": "image",
+			"url": "assets/y_btn.png"
+		}
+	]
+}
